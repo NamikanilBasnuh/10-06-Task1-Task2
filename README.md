@@ -1,10 +1,7 @@
 # TASK1
-
-
-
-
-
-
+-Created an Ubuntu VM and Connected it to Internet.
+-Created a vim file.sh inside of Ubuntu Machine And using #!/bin/bash in order to automate all installations that were desired by using sudo command.
+-Created a test vim. file.sh by using #!/bin/bash inside of Ubuntu in order to check out the versions of Installations to be make sure that they are installed.
 
 
 # TASK2
